@@ -1,0 +1,8 @@
+[Input file]
+saved_positions.txt
+[Output file]
+pos_CoM.lammpstrj
+[Number of atoms]
+625
+[Edge length of cubic box]
+20
